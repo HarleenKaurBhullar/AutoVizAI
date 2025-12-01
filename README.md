@@ -50,7 +50,6 @@ This system **reduces human effort** and produces **actionable insights and visu
 4.  Suggest visualizations → **Inference Agent**
 5.  Generate plots → **Visualization Agent** 
 
-[Image of multi-agent data analysis workflow diagram]
 
 
 ---
